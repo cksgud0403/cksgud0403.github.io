@@ -17,6 +17,12 @@
       "css": "vkontakte",
       "code": 62292,
       "src": "entypo"
+    },
+    {
+      "uid": "79beb8c7fcd56e1985b70e9a120cbcbf",
+      "css": "map",
+      "code": 62073,
+      "src": "fontawesome"
     }
   ]
 }
